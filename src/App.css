@@ -1,0 +1,9 @@
+.wrapper {
+  background-image: url('./assets/plenlka.JPG');
+  background-size: cover;
+  background-position: top;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  color: rgb(237, 237, 237);
+}
