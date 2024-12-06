@@ -1,4 +1,4 @@
-import './navbar.css';
+import './Navbar.css';
 import { gsap } from "gsap";
 import { useRef, useState, useEffect, createRef } from 'react';
 
